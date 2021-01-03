@@ -11,8 +11,7 @@ As it is stated, star schema is used for the purpose of this project.
 
 **Fact and dimension tables**
 
-![ER diagram](./Database ER diagram (crow's foot).jpeg)
-Format: ![ER diagram](url)
+![ER diagram](https://github.com/parvinDaD/Data-Engineering/blob/ab96f78282a693851e79df7284db31c7c6374f6f/Relational%20DataBase%20Design/ER-diagram.jpeg)
 
 
 #### Project outline
